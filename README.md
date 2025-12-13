@@ -19,6 +19,7 @@ As a passionate Computer Science student, I enjoy turning ideas into impactful s
 ### 👨‍💻 Programming & Frameworks
 - Python, Django, Flask  
 - HTML, CSS, Bootstrap
+- React, Tailwinds 
 
 ### 🤖 Machine Learning & Deep Learning
 - Scikit-Learn, Deep Learning, NLP
@@ -30,10 +31,10 @@ As a passionate Computer Science student, I enjoy turning ideas into impactful s
 - MySQL, MongoDB
 
 ### ☁️ Cloud & Deployment
-- AWS, Render
+- AWS, Render, Oracle
 
 ### 🔧 Tools
-- GitHub, Docker, VS Code
+- GitHub, Docker, VS Code, Git
 
 ### 💡 Soft Skills
 - Problem-Solving
