@@ -19,7 +19,9 @@ As a passionate Computer Science student, I enjoy turning ideas into impactful s
 ### 👨‍💻 Programming & Frameworks
 - Python, Django, Flask  
 - HTML, CSS, Bootstrap
-- React, Tailwinds 
+- React, Tailwinds
+- WordPress
+- DevOps
 
 ### 🤖 Machine Learning & Deep Learning
 - Scikit-Learn, Deep Learning, NLP
