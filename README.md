@@ -10,7 +10,10 @@
 
 ## 🚀 About Me
 
-As a passionate Computer Science student, I enjoy turning ideas into impactful solutions using data, code, and creativity. I have a strong foundation in Python, data analysis, machine learning, and web development. My learning approach is hands-on and project-oriented, always aiming to grow and collaborate in innovative environments.
+Full Stack Developer and Data Science enthusiast with hands-on experience in AI/ML model development, web
+application design, and backend integration. Skilled in Python, Django, Flask, React, and data-driven solutions.
+Experienced in deploying projects, integrating APIs, and managing data pipelines. Passionate about
+leveraging technology to solve real-world problems and contribute to scalable, intelligent software systems
 
 ---
 
