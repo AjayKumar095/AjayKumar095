@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay Kumar
 
-🎓 BCA | Computer Science Student | 💻 Python & ML Enthusiast  
+🎓 BCA | Computer Science Student | 💻 Python & ML Enthusiast | Full Stack Developer
 📍 Panipat, Haryana, India  
 📧 jaykumar002kori@gmail.com  
 📞+91 7494827368
